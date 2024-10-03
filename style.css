@@ -1,6 +1,6 @@
 body{
     color:aquamarine;
-    background: gray:fixed;
+    background: gray;
     margin:0px;
 }
 
@@ -8,3 +8,4 @@ body{
 
 header{
     border-bottom: solid 2px rgb(42, 122, 228);
+}
