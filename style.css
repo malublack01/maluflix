@@ -38,3 +38,25 @@ h1{
 p{
 
 }
+ .categoria-videos{
+    display:flex;
+    overflow-x: auto;
+    gap:10px;
+ }
+
+ .categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+ }
+
+ .categoria-videos img {
+    opacity: 1.0;
+    border: 3px slateblue;
+ }
+
+ .categoria h2 {
+color:blueviolet rgb (42,122,228);
+
+
+ }
